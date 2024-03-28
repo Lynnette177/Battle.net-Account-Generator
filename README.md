@@ -11,7 +11,7 @@ Customize battletag
 5SIM/SMSACTICATE supported
 # Updated 28/3/2024
 Support new blizzard Authenticator. Auto create new one after processing.  
-See 5sim_new_auth.py  
+See better_5sim_new_auth.py
 
 # Buy me a cup of coffee/支持我
 BTC : 16eXZ8zzSgtepvuNHa6xQCgnXXSYgu87tC
